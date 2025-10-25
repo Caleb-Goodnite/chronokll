@@ -455,3 +455,5 @@
       {/if}
     </form>
   </div>
+
+  <p>If you have quesitons, comments, or concerns, please email me at <a href="mailto:support@chronokl.com">support@chronokl.com</a></p>
