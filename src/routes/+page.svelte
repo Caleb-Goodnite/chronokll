@@ -400,7 +400,7 @@
           {#if tool.comingSoon}
             <button class="btn" disabled>Coming Soon</button>
           {:else}
-            <a href={tool.url} class="btn btn-primary">Open {tool.title}</a>
+            <a href={tool.url} target="_blank" class="btn btn-primary">Open {tool.title}</a>
           {/if}
         </div>
       </div>
